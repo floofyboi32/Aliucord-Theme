@@ -2,16 +2,16 @@
     "manifest": {
         "version": "0.1",
         "author": "floofyboi32",
-        "updater": "https://raw.githubusercontent.com/floofyboi32/Aliucord-Theme/main/Purrely.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/floofyboi32\/Aliucord-Theme\/main\/Purrely.json",
         "name": "Purrely"
     },
     "background": {
         "overlay_alpha": 155,
         "blur_radius": 2,
-        "url": "https://raw.githubusercontent.com/Aliucord-Theme/main/purrelybg.png"
+        "url": "https:\/\/raw.githubusercontent.com\/Aliucord-Theme\/main\/purrelybg.png"
     },
     "fonts": {
-        "*": "https://raw.githubusercontent.com/floofyboi32/Aliucord-Theme/main/Inconsolata-SemiCondensedMedium.ttf"
+        "*": "https:\/\/raw.githubusercontent.com/\floofyboi32\/Aliucord-Theme\/main\/Inconsolata-SemiCondensedMedium.ttf"
     },
     "simple_colors": {
         "active_channel": 486539263,
