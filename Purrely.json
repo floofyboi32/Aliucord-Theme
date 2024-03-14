@@ -7,7 +7,7 @@
     },
     "background": {
         "overlay_alpha": 155,
-        "blur_radius": 2,
+        "blur_radius": 1,
         "url": "https:\/\/raw.githubusercontent.com\/Aliucord-Theme\/main\/purrelybg.png"
     },
     "fonts": {
