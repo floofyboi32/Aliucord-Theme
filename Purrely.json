@@ -8,7 +8,7 @@
     "background": {
         "overlay_alpha": 0,
         "blur_radius": 2,
-        "url": "https:\/\/raw.githubusercontent.com\/"
+        "url": "https:\/\/raw.githubusercontent.com\/Aliucord-Theme\/main\/purrelybg.png"
     },
     "fonts": {
         "*": "https:\/\/raw.githubusercontent.com\/floofyboi32\/Aliucord-Theme\/main\/Inconsolata-SemiCondensedMedium.ttf"
